@@ -1,0 +1,24 @@
+{
+  "name": "lukodconvert_js",
+  "version": "0.1.0-alpha.1",
+  "description": "All-in-one unit conversion package. Supports time, length, mass, current, temperature, substance, intensity etc. Supports all units like metric, imperial, ancient, traditional etc.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yivan000",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "csv": "^6.4.1",
+    "minimist": "^1.2.8",
+    "yaml": "^2.8.1"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "fraction.js": "^5.3.4"
+  }
+}
