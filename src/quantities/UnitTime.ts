@@ -16,7 +16,7 @@ export default class UnitTime extends Unit {
     /**
      * **second**
      * 
-     * Symbols: s
+     * Symbols: "s"
      * 
      * Base SI metric unit.
      */
@@ -32,7 +32,7 @@ export default class UnitTime extends Unit {
     /**
      * **quettasecond**
      * 
-     * Symbols: Qs
+     * Symbols: "Qs"
      * 
      * SI metric unit. Equal to 1000 [ronnasecond] or 1ᴇ30 [second]. Adopted 2022.
      */
@@ -48,7 +48,7 @@ export default class UnitTime extends Unit {
     /**
      * **ronnasecond**
      * 
-     * Symbols: Rs
+     * Symbols: "Rs"
      * 
      * SI metric unit. Equal to 1000 [yottasecond] or 1ᴇ27 [second]. Adopted 2022.
      */
@@ -64,7 +64,7 @@ export default class UnitTime extends Unit {
     /**
      * **yottasecond**
      * 
-     * Symbols: Ys
+     * Symbols: "Ys"
      * 
      * SI metric unit. Equal to 1000 [zettasecond] or 1ᴇ24 second. Adopted 1991.
      */
@@ -80,7 +80,7 @@ export default class UnitTime extends Unit {
     /**
      * **zettasecond**
      * 
-     * Symbols: Zs
+     * Symbols: "Zs"
      * 
      * SI metric unit. Equal to 1000 [exasecond] or 1ᴇ21 [second]. Adopted 1991.
      */
@@ -96,7 +96,7 @@ export default class UnitTime extends Unit {
     /**
      * **exasecond**
      * 
-     * Symbols: Es
+     * Symbols: "Es"
      * 
      * SI metric unit. Equal to 1000 [petasecond] or 1ᴇ18 [second]. Adopted 1975.
      */
@@ -112,7 +112,7 @@ export default class UnitTime extends Unit {
     /**
      * **petasecond**
      * 
-     * Symbols: Ps
+     * Symbols: "Ps"
      * 
      * SI metric unit. Equal to 1000 [terasecond] or 1ᴇ15 [second]. Adopted 1975.
      */
@@ -128,7 +128,7 @@ export default class UnitTime extends Unit {
     /**
      * **terasecond**
      * 
-     * Symbols: Ts
+     * Symbols: "Ts"
      * 
      * SI metric unit. Equal to 1000 [gigasecond] or 1ᴇ12 [second]. Adopted 1960.
      */
@@ -144,7 +144,7 @@ export default class UnitTime extends Unit {
     /**
      * **gigasecond**
      * 
-     * Symbols: Gs
+     * Symbols: "Gs"
      * 
      * SI metric unit. Equal to 1000 [megasecond] or 1ᴇ9 [second]. Adopted 1960.
      */
@@ -160,7 +160,7 @@ export default class UnitTime extends Unit {
     /**
      * **megasecond**
      * 
-     * Symbols: Ms
+     * Symbols: "Ms"
      * 
      * SI metric unit. Equal to 1000 [kilosecond] or 1ᴇ6 [second]. Adopted 1873.
      */
@@ -176,7 +176,7 @@ export default class UnitTime extends Unit {
     /**
      * **kilosecond**
      * 
-     * Symbols: ks
+     * Symbols: "ks"
      * 
      * SI metric unit. Equal to 10 [hectosecond] or 1000 [second]. Adopted 1795.
      */
@@ -192,7 +192,7 @@ export default class UnitTime extends Unit {
     /**
      * **hectosecond**
      * 
-     * Symbols: hs
+     * Symbols: "hs"
      * 
      * SI metric unit. Equal to 10 [decasecond] or 100 [second]. Adopted 1795.
      */
@@ -208,7 +208,7 @@ export default class UnitTime extends Unit {
     /**
      * **decasecond**
      * 
-     * Symbols: das
+     * Symbols: "das"
      * 
      * SI metric unit. Equal to 10 [second]. Adopted 1795.
      */
@@ -224,7 +224,7 @@ export default class UnitTime extends Unit {
     /**
      * **decisecond**
      * 
-     * Symbols: ds
+     * Symbols: "ds"
      * 
      * SI metric unit. Equal to 10 [centisecond] or 0.1 [second]. Adopted 1795.
      */
@@ -240,7 +240,7 @@ export default class UnitTime extends Unit {
     /**
      * **centisecond**
      * 
-     * Symbols: cs
+     * Symbols: "cs"
      * 
      * SI metric unit. Equal to 10 [millisecond] or 0.01 [second]. Adopted 1795.
      */
@@ -256,7 +256,7 @@ export default class UnitTime extends Unit {
     /**
      * **millisecond**
      * 
-     * Symbols: ms
+     * Symbols: "ms"
      * 
      * SI metric unit. Equal to 1000 [microsecond] or 0.001 [second]. Adopted 1795.
      */
@@ -272,7 +272,7 @@ export default class UnitTime extends Unit {
     /**
      * **microsecond**
      * 
-     * Symbols: μs
+     * Symbols: "μs"
      * 
      * SI metric unit. Equal to 1000 [nanosecond] or 1ᴇ-6 [second]. Adopted 1873.
      */
@@ -288,7 +288,7 @@ export default class UnitTime extends Unit {
     /**
      * **nanosecond**
      * 
-     * Symbols: ns
+     * Symbols: "ns"
      * 
      * SI metric unit. Equal to 1000 [picosecond] or 1ᴇ-9 [second]. Adopted 1960.
      */
@@ -304,7 +304,7 @@ export default class UnitTime extends Unit {
     /**
      * **picosecond**
      * 
-     * Symbols: ps
+     * Symbols: "ps"
      * 
      * SI metric unit. Equal to 1000 [femtosecond] or 1ᴇ-12 [second]. Adopted 1960.
      */
@@ -320,7 +320,7 @@ export default class UnitTime extends Unit {
     /**
      * **femtosecond**
      * 
-     * Symbols: fs
+     * Symbols: "fs"
      * 
      * SI metric unit. Equal to 1000 [attosecond] or 1ᴇ-15 [second]. Adopted 1964.
      */
@@ -336,7 +336,7 @@ export default class UnitTime extends Unit {
     /**
      * **attosecond**
      * 
-     * Symbols: as
+     * Symbols: "as"
      * 
      * SI metric unit. Equal to 1000 [zeptosecond] or 1ᴇ-18 [second]. Adopted 1964.
      */
@@ -352,7 +352,7 @@ export default class UnitTime extends Unit {
     /**
      * **zeptosecond**
      * 
-     * Symbols: zs
+     * Symbols: "zs"
      * 
      * SI metric unit. Equal to 1000 [yoctosecond] or 1ᴇ-21 [second]. Adopted 1991.
      */
@@ -368,7 +368,7 @@ export default class UnitTime extends Unit {
     /**
      * **yoctosecond**
      * 
-     * Symbols: ys
+     * Symbols: "ys"
      * 
      * SI metric unit. Equal to 1000 [rontosecond] or 1ᴇ-24 [second]. Adopted 1991.
      */
@@ -384,7 +384,7 @@ export default class UnitTime extends Unit {
     /**
      * **rontosecond**
      * 
-     * Symbols: rs
+     * Symbols: "rs"
      * 
      * SI metric unit. Equal to 1000 [quectosecond] or 1ᴇ-27 [second]. Adopted 2022.
      */
@@ -400,7 +400,7 @@ export default class UnitTime extends Unit {
     /**
      * **quectosecond**
      * 
-     * Symbols: qs
+     * Symbols: "qs"
      * 
      * SI metric unit. Equal to 1ᴇ-30 [second]. Adopted 2022.
      */
@@ -420,7 +420,7 @@ export default class UnitTime extends Unit {
     /**
      * **minute**
      * 
-     * Symbols: object Object
+     * Symbols: {"one":"min","other":"mins"}
      * 
      * Non-SI metric unit. Equal to 60 [second].
      */
@@ -436,7 +436,7 @@ export default class UnitTime extends Unit {
     /**
      * **hour**
      * 
-     * Symbols: hr,h
+     * Symbols: "hr","h"
      * 
      * Non-SI metric unit. Equal to 60 [minute] or 3600 [second].
      */
@@ -452,7 +452,7 @@ export default class UnitTime extends Unit {
     /**
      * **day**
      * 
-     * Symbols: d
+     * Symbols: "d"
      * 
      * Non-SI metric unit. Equal to 24 [hour] or 86400 [second].
      */
@@ -472,7 +472,7 @@ export default class UnitTime extends Unit {
     /**
      * **week**
      * 
-     * Symbols: wk
+     * Symbols: "wk"
      * 
      * Conventional unit. Equal to 7 [dayCalendar].
      */
@@ -488,7 +488,7 @@ export default class UnitTime extends Unit {
     /**
      * **year**
      * 
-     * Symbols: yr
+     * Symbols: "yr"
      * 
      * Conventional unit. Equal to 52 [week] or 365 [dayCalendar].
      */
@@ -504,7 +504,7 @@ export default class UnitTime extends Unit {
     /**
      * **leap year**
      * 
-     * Symbols: leap year
+     * Symbols: "leap year"
      * 
      * Conventional unit. Equal 366 [dayCalendar].
      */

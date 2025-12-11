@@ -16,7 +16,7 @@ export default class UnitSpeed extends Unit {
     /**
      * **meter per second**
      * 
-     * Symbols: m/s,m·s⁻¹
+     * Symbols: "m/s","m·s⁻¹"
      * 
      * SI base metric unit.
      */
@@ -32,7 +32,7 @@ export default class UnitSpeed extends Unit {
     /**
      * **kilometer per hour**
      * 
-     * Symbols: km/h,kph,kmph,km/hr,km·h⁻¹
+     * Symbols: "km/h","kph","kmph","km/hr","km·h⁻¹"
      * 
      * SI metric unit.
      */
@@ -52,7 +52,7 @@ export default class UnitSpeed extends Unit {
     /**
      * **foot per second**
      * 
-     * Symbols: fps
+     * Symbols: "fps"
      * 
      * FPS unit. Equal to 0.3048 [meterPerSecond].
      */

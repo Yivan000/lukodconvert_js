@@ -16,7 +16,7 @@ export default class UnitPaper extends Unit {
     /**
      * **sheet**
      * 
-     * Symbols: sheet
+     * Symbols: "sheet"
      * 
      * A single sheet of paper.
      */
@@ -32,7 +32,7 @@ export default class UnitPaper extends Unit {
     /**
      * **bale**
      * 
-     * Symbols: bale
+     * Symbols: "bale"
      * 
      * Equal to 5 [bundle] or 5000 [sheet].
      */
@@ -48,7 +48,7 @@ export default class UnitPaper extends Unit {
     /**
      * **bundle**
      * 
-     * Symbols: bundle
+     * Symbols: "bundle"
      * 
      * Equal to 10 [ream] or 1000 [sheet].
      */
@@ -64,7 +64,7 @@ export default class UnitPaper extends Unit {
     /**
      * **ream**
      * 
-     * Symbols: ream
+     * Symbols: "ream"
      * 
      * Equal to 20 [quires] or 500 [sheet].
      */
@@ -80,7 +80,7 @@ export default class UnitPaper extends Unit {
     /**
      * **quire**
      * 
-     * Symbols: quire
+     * Symbols: "quire"
      * 
      * Equal to 25 [sheet].
      */
@@ -96,7 +96,7 @@ export default class UnitPaper extends Unit {
     /**
      * **bale (old)**
      * 
-     * Symbols: bale
+     * Symbols: "bale"
      * 
      * Equal to 5 [bundleOld] or 4800 [sheet].
      */
@@ -112,7 +112,7 @@ export default class UnitPaper extends Unit {
     /**
      * **bundle (old)**
      * 
-     * Symbols: bundle
+     * Symbols: "bundle"
      * 
      * Equal to 10 [reamOld] or 960 [sheet].
      */
@@ -128,7 +128,7 @@ export default class UnitPaper extends Unit {
     /**
      * **ream (old)**
      * 
-     * Symbols: ream
+     * Symbols: "ream"
      * 
      * Equal to 20 [quiresOld] or 480 [sheet].
      */
@@ -144,7 +144,7 @@ export default class UnitPaper extends Unit {
     /**
      * **quire (old)**
      * 
-     * Symbols: quire
+     * Symbols: "quire"
      * 
      * Equal to 24 [sheet].
      */
@@ -160,7 +160,7 @@ export default class UnitPaper extends Unit {
     /**
      * **perfect ream**
      * 
-     * Symbols: perfect ream
+     * Symbols: "perfect ream"
      * 
      * Equal to 516 [sheet].
      */

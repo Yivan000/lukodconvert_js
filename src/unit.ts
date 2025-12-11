@@ -72,10 +72,20 @@ export abstract class Unit {
     }
 
     // `this.constructor.name` is the name of the class, e.g. "UnitLength"
+    /** 
+     * 
+     * @param number The number that this unit is in reference to, for pluralization purposes. Defaults to 1.
+     * @returns A string array of the possible names for this unit. Contains at least 1 string.
+     */
     getName(number: number = 1): string[]{
         return _getListStringWithPluralizationFunction(localeJsonObject[this.constructor.name][this.key].name, number)
     }
 
+    /** 
+     * 
+     * @param number The number that this unit is in reference to, for pluralization purposes. Defaults to 1.
+     * @returns A string array of the possible symbols for this unit. Contains at least 1 string.
+     */
     getSymbol(number: number = 1): string[]{
         return _getListStringWithPluralizationFunction(localeJsonObject[this.constructor.name][this.key].symbol!, number)
     }
@@ -83,7 +93,7 @@ export abstract class Unit {
 
 export function checkIfSameType(a: Unit, b: Unit,) {
     if (a.isSameType(b)) return;
-    throw TypeError();
+    throw TypeError(`Type of "${a}" is not the same as the type of "${b}"`);
 }
 
 export function convert(

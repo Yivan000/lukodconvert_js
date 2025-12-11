@@ -16,7 +16,7 @@ export default class UnitLength extends Unit {
     /**
      * **meter**
      * 
-     * Symbols: m
+     * Symbols: "m"
      * 
      * Base SI metric unit.
      */
@@ -32,7 +32,7 @@ export default class UnitLength extends Unit {
     /**
      * **quettameter**
      * 
-     * Symbols: Qm
+     * Symbols: "Qm"
      * 
      * SI metric unit. Equal to 1000 [ronnameter] or 1ᴇ30 [meter]. Adopted 2022.
      */
@@ -48,7 +48,7 @@ export default class UnitLength extends Unit {
     /**
      * **ronnameter**
      * 
-     * Symbols: Rm
+     * Symbols: "Rm"
      * 
      * SI metric unit. Equal to 1000 [yottameter] or 1ᴇ27 [meter]. Adopted 2022.
      */
@@ -64,7 +64,7 @@ export default class UnitLength extends Unit {
     /**
      * **yottameter**
      * 
-     * Symbols: Ym
+     * Symbols: "Ym"
      * 
      * SI metric unit. Equal to 1000 [zettameter] or 1ᴇ24 meter. Adopted 1991.
      */
@@ -80,7 +80,7 @@ export default class UnitLength extends Unit {
     /**
      * **zettameter**
      * 
-     * Symbols: Zm
+     * Symbols: "Zm"
      * 
      * SI metric unit. Equal to 1000 [exameter] or 1ᴇ21 [meter]. Adopted 1991.
      */
@@ -96,7 +96,7 @@ export default class UnitLength extends Unit {
     /**
      * **exameter**
      * 
-     * Symbols: Em
+     * Symbols: "Em"
      * 
      * SI metric unit. Equal to 1000 [petameter] or 1ᴇ18 [meter]. Adopted 1975.
      */
@@ -112,7 +112,7 @@ export default class UnitLength extends Unit {
     /**
      * **petameter**
      * 
-     * Symbols: Pm
+     * Symbols: "Pm"
      * 
      * SI metric unit. Equal to 1000 [terameter] or 1ᴇ15 [meter]. Adopted 1975.
      */
@@ -128,7 +128,7 @@ export default class UnitLength extends Unit {
     /**
      * **terameter**
      * 
-     * Symbols: Tm
+     * Symbols: "Tm"
      * 
      * SI metric unit. Equal to 1000 [gigameter] or 1ᴇ12 [meter]. Adopted 1960.
      */
@@ -144,7 +144,7 @@ export default class UnitLength extends Unit {
     /**
      * **gigameter**
      * 
-     * Symbols: Gm
+     * Symbols: "Gm"
      * 
      * SI metric unit. Equal to 1000 [megameter] or 1ᴇ9 [meter]. Adopted 1960.
      */
@@ -160,7 +160,7 @@ export default class UnitLength extends Unit {
     /**
      * **megameter**
      * 
-     * Symbols: Mm
+     * Symbols: "Mm"
      * 
      * SI metric unit. Equal to 1000 [kilometer] or 1ᴇ6 [meter]. Adopted 1873.
      */
@@ -176,7 +176,7 @@ export default class UnitLength extends Unit {
     /**
      * **kilometer**
      * 
-     * Symbols: km
+     * Symbols: "km"
      * 
      * SI metric unit. Equal to 10 [hectometer] or 1000 [meter]. Adopted 1795.
      */
@@ -192,7 +192,7 @@ export default class UnitLength extends Unit {
     /**
      * **hectometer**
      * 
-     * Symbols: hm
+     * Symbols: "hm"
      * 
      * SI metric unit. Equal to 10 [decameter] or 100 [meter]. Adopted 1795.
      */
@@ -208,7 +208,7 @@ export default class UnitLength extends Unit {
     /**
      * **decameter**
      * 
-     * Symbols: dam
+     * Symbols: "dam"
      * 
      * SI metric unit. Equal to 10 [meter]. Adopted 1795.
      */
@@ -224,7 +224,7 @@ export default class UnitLength extends Unit {
     /**
      * **decimeter**
      * 
-     * Symbols: dm
+     * Symbols: "dm"
      * 
      * SI metric unit. Equal to 10 [centimeter] or 0.1 [meter]. Adopted 1795.
      */
@@ -240,7 +240,7 @@ export default class UnitLength extends Unit {
     /**
      * **centimeter**
      * 
-     * Symbols: cm
+     * Symbols: "cm"
      * 
      * SI metric unit. Equal to 10 [millimeter] or 0.01 [meter]. Adopted 1795.
      */
@@ -256,7 +256,7 @@ export default class UnitLength extends Unit {
     /**
      * **millimeter**
      * 
-     * Symbols: mm
+     * Symbols: "mm"
      * 
      * SI metric unit. Equal to 1000 [micrometer] or 0.001 [meter]. Adopted 1795.
      */
@@ -272,7 +272,7 @@ export default class UnitLength extends Unit {
     /**
      * **micrometer**
      * 
-     * Symbols: μm
+     * Symbols: "μm"
      * 
      * SI metric unit. Equal to 1000 [nanometer] or 1ᴇ-6 [meter]. Adopted 1873.
      */
@@ -288,7 +288,7 @@ export default class UnitLength extends Unit {
     /**
      * **nanometer**
      * 
-     * Symbols: nm
+     * Symbols: "nm"
      * 
      * SI metric unit. Equal to 1000 [picometer] or 1ᴇ-9 [meter]. Adopted 1960.
      */
@@ -304,7 +304,7 @@ export default class UnitLength extends Unit {
     /**
      * **picometer**
      * 
-     * Symbols: pm
+     * Symbols: "pm"
      * 
      * SI metric unit. Equal to 1000 [femtometer] or 1ᴇ-12 [meter]. Adopted 1960.
      */
@@ -320,7 +320,7 @@ export default class UnitLength extends Unit {
     /**
      * **femtometer**
      * 
-     * Symbols: fm
+     * Symbols: "fm"
      * 
      * SI metric unit. Equal to 1000 [attometer] or 1ᴇ-15 [meter]. Adopted 1964.
      */
@@ -336,7 +336,7 @@ export default class UnitLength extends Unit {
     /**
      * **attometer**
      * 
-     * Symbols: am
+     * Symbols: "am"
      * 
      * SI metric unit. Equal to 1000 [zeptometer] or 1ᴇ-18 [meter]. Adopted 1964.
      */
@@ -352,7 +352,7 @@ export default class UnitLength extends Unit {
     /**
      * **zeptometer**
      * 
-     * Symbols: zm
+     * Symbols: "zm"
      * 
      * SI metric unit. Equal to 1000 [yoctometer] or 1ᴇ-21 [meter]. Adopted 1991.
      */
@@ -368,7 +368,7 @@ export default class UnitLength extends Unit {
     /**
      * **yoctometer**
      * 
-     * Symbols: ym
+     * Symbols: "ym"
      * 
      * SI metric unit. Equal to 1000 [rontometer] or 1ᴇ-24 [meter]. Adopted 1991.
      */
@@ -384,7 +384,7 @@ export default class UnitLength extends Unit {
     /**
      * **rontometer**
      * 
-     * Symbols: rm
+     * Symbols: "rm"
      * 
      * SI metric unit. Equal to 1000 [quectometer] or 1ᴇ-27 [meter]. Adopted 2022.
      */
@@ -400,7 +400,7 @@ export default class UnitLength extends Unit {
     /**
      * **quectometer**
      * 
-     * Symbols: qm
+     * Symbols: "qm"
      * 
      * SI metric unit. Equal to 1ᴇ-30 [meter]. Adopted 2022.
      */
@@ -420,7 +420,7 @@ export default class UnitLength extends Unit {
     /**
      * **myriameter**
      * 
-     * Symbols: object Object
+     * Symbols: {"one":"my","other":"mys"}
      * 
      * Non-SI deprecated metric unit. Equal to 10 [kilometer].
      */
@@ -436,7 +436,7 @@ export default class UnitLength extends Unit {
     /**
      * **ångström**
      * 
-     * Symbols: Å
+     * Symbols: "Å"
      * 
      * Non-SI metric unit. Equal to 0.1 [nanometer].
      */
@@ -456,7 +456,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK league**
      * 
-     * Symbols: lg,st. lg
+     * Symbols: "lg","st. lg"
      * 
      * Imperial linear unit. Equal to 3 [mileImperial] or 4.828032 [kilometer].
      */
@@ -472,7 +472,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK mile**
      * 
-     * Symbols: mi,st. mi
+     * Symbols: "mi","st. mi"
      * 
      * Imperial linear unit. Equal to 1760 [yardImperial], 320 [rod], or 1.609344 [kilometer].
      */
@@ -488,7 +488,7 @@ export default class UnitLength extends Unit {
     /**
      * **rod**
      * 
-     * Symbols: rd
+     * Symbols: "rd"
      * 
      * Imperial unit. Equal to 16.5 [footImperial], 11⁄2 [yardImperial], or 5.0292 [meter].
      */
@@ -504,7 +504,7 @@ export default class UnitLength extends Unit {
     /**
      * **yard**
      * 
-     * Symbols: yd
+     * Symbols: "yd"
      * 
      * Imperial unit. Equal to 3 [footImperial], 6⁄5 [pace], or 0.9144 [meter].
      */
@@ -520,7 +520,7 @@ export default class UnitLength extends Unit {
     /**
      * **pace**
      * 
-     * Symbols: pc
+     * Symbols: "pc"
      * 
      * Imperial linear unit. Equal to 30 [inchImperial], 5⁄3 [cubitImperial], or 0.762 [meter].
      */
@@ -536,7 +536,7 @@ export default class UnitLength extends Unit {
     /**
      * **cubit**
      * 
-     * Symbols: cu
+     * Symbols: "cu"
      * 
      * Imperial linear unit. Equal to 18 [inchImperial], 3⁄2 [footImperial], or 0.4572 [meter].
      */
@@ -552,7 +552,7 @@ export default class UnitLength extends Unit {
     /**
      * **foot**
      * 
-     * Symbols: ft
+     * Symbols: "ft"
      * 
      * Imperial unit. Equal to 12 [inchImperial], 4⁄3 [spanImperial], or 30.48 [centimeter].
      */
@@ -568,7 +568,7 @@ export default class UnitLength extends Unit {
     /**
      * **span**
      * 
-     * Symbols: sp
+     * Symbols: "sp"
      * 
      * Imperial linear unit. Equal to 9 [inchImperial], 9⁄4 [hand], or 22.86 [centimeter].
      */
@@ -584,7 +584,7 @@ export default class UnitLength extends Unit {
     /**
      * **hand**
      * 
-     * Symbols: hd
+     * Symbols: "hd"
      * 
      * Imperial linear unit. Equal to 4 [inchImperial], 4⁄3 [palmImperial], or 10.16 [centimeter].
      */
@@ -600,7 +600,7 @@ export default class UnitLength extends Unit {
     /**
      * **palm**
      * 
-     * Symbols: plm
+     * Symbols: "plm"
      * 
      * Imperial linear unit. Equal to 3 [inchImperial] or 7.62 [centimeter].
      */
@@ -616,7 +616,7 @@ export default class UnitLength extends Unit {
     /**
      * **inch**
      * 
-     * Symbols: in,"
+     * Symbols: "in","\""
      * 
      * Imperial linear unit. Equal to 12 [lineImperialUK], 40 [lineImperialUS], or 2.54 [centimeter].
      */
@@ -632,7 +632,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK line**
      * 
-     * Symbols: object Object
+     * Symbols: {"one":"line","other":"lines"}
      * 
      * Imperial linear unit. Equal to 12 [point] or 2.116̅ [millimeter].
      */
@@ -648,7 +648,7 @@ export default class UnitLength extends Unit {
     /**
      * **point**
      * 
-     * Symbols: pt
+     * Symbols: "pt"
      * 
      * Smallest UK imperial linear unit. Equal to 0.17638̅ [millimeter].
      */
@@ -664,7 +664,7 @@ export default class UnitLength extends Unit {
     /**
      * **furlong**
      * 
-     * Symbols: fur
+     * Symbols: "fur"
      * 
      * Imperial surveyor unit. Equal to 220 [yardImperial], 10 [chainGunter], or 201.168 [meter].
      */
@@ -680,7 +680,7 @@ export default class UnitLength extends Unit {
     /**
      * **Gunter's chain**
      * 
-     * Symbols: ch
+     * Symbols: "ch"
      * 
      * Imperial surveyor unit. Equal to 4 [rod] or 20.1168 [meter].
      */
@@ -696,7 +696,7 @@ export default class UnitLength extends Unit {
     /**
      * **Gunter's link**
      * 
-     * Symbols: lk
+     * Symbols: "lk"
      * 
      * Smallest imperial surveyor unit. Equal to 20.1168 [centimeter].
      */
@@ -712,7 +712,7 @@ export default class UnitLength extends Unit {
     /**
      * **lea**
      * 
-     * Symbols: lea
+     * Symbols: "lea"
      * 
      * Imperial (UK) linear unit. Equal to 360 [footImperial] or 109.728 [meter].
      */
@@ -728,7 +728,7 @@ export default class UnitLength extends Unit {
     /**
      * **wrap**
      * 
-     * Symbols: wrap
+     * Symbols: "wrap"
      * 
      * Imperial (UK) unit. Equal to 240 [footImperial] or 73.152 [meter].
      */
@@ -744,7 +744,7 @@ export default class UnitLength extends Unit {
     /**
      * **bolt**
      * 
-     * Symbols: bolt
+     * Symbols: "bolt"
      * 
      * Imperial (UK) unit. Equal to 120 [footImperial] or 36.576 [meter].
      */
@@ -760,7 +760,7 @@ export default class UnitLength extends Unit {
     /**
      * **shackle**
      * 
-     * Symbols: shackle
+     * Symbols: "shackle"
      * 
      * Imperial (UK) unit. Equal to 90 [footImperial] or 27.432 [meter].
      */
@@ -776,7 +776,7 @@ export default class UnitLength extends Unit {
     /**
      * **rope**
      * 
-     * Symbols: rope
+     * Symbols: "rope"
      * 
      * Imperial (UK) unit. Equal to 20 [footImperial] or 6.096 [meter].
      */
@@ -792,7 +792,7 @@ export default class UnitLength extends Unit {
     /**
      * **ell**
      * 
-     * Symbols: ell
+     * Symbols: "ell"
      * 
      * Imperial (UK) unit. Equal to 45 [inchImperial] or 1.143 [meter].
      */
@@ -808,7 +808,7 @@ export default class UnitLength extends Unit {
     /**
      * **nail**
      * 
-     * Symbols: nail
+     * Symbols: "nail"
      * 
      * Imperial (UK) unit. Equal to 9⁄4 [inchImperial] or 5.715 [centimeter].
      */
@@ -824,7 +824,7 @@ export default class UnitLength extends Unit {
     /**
      * **finger**
      * 
-     * Symbols: finger
+     * Symbols: "finger"
      * 
      * Imperial (UK) unit. Equal to 7⁄8 [inchImperial] or 2.2225 [centimeter].
      */
@@ -840,7 +840,7 @@ export default class UnitLength extends Unit {
     /**
      * **barleycorn**
      * 
-     * Symbols: Bc
+     * Symbols: "Bc"
      * 
      * Imperial (UK) unit. Equal to ⅓ [inchImperial] or 8.46̅ [millimeter].
      */
@@ -856,7 +856,7 @@ export default class UnitLength extends Unit {
     /**
      * **button**
      * 
-     * Symbols: button
+     * Symbols: "button"
      * 
      * Imperial (UK) unit. Equal to 1⁄12 [inchImperial] or 2.116̅ [millimeter].
      */
@@ -872,7 +872,7 @@ export default class UnitLength extends Unit {
     /**
      * **iron**
      * 
-     * Symbols: iron
+     * Symbols: "iron"
      * 
      * Imperial (UK) unit. Equal to 1⁄48 [inchImperial] or 0.52916̅ [millimeter].
      */
@@ -888,7 +888,7 @@ export default class UnitLength extends Unit {
     /**
      * **calibre**
      * 
-     * Symbols: calibre
+     * Symbols: "calibre"
      * 
      * Imperial (UK) unit. Equal to 1⁄100 [inchImperial] or 0.254 [millimeter].
      */
@@ -904,7 +904,7 @@ export default class UnitLength extends Unit {
     /**
      * **thou**
      * 
-     * Symbols: th
+     * Symbols: "th"
      * 
      * Imperial (UK) unit. Equal to 1⁄1000 [inchImperial] or 25.4 [micrometer].
      */
@@ -920,7 +920,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK nautical league**
      * 
-     * Symbols: nlg,naut. lg
+     * Symbols: "nlg","naut. lg"
      * 
      * Imperial unit. Equal to 3 [mileNauticalUK] or 5.559552 [kilometer].
      */
@@ -936,7 +936,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK nautical mile**
      * 
-     * Symbols: nmi,naut. mi
+     * Symbols: "nmi","naut. mi"
      * 
      * Imperial nautical unit. Equal to 10 [cableNauticalUK] or 1.853184 [kilometer].
      */
@@ -952,7 +952,7 @@ export default class UnitLength extends Unit {
     /**
      * **UK nautical cable**
      * 
-     * Symbols: ncbl
+     * Symbols: "ncbl"
      * 
      * Imperial nautical unit. Equal to 608 [footImperial], 608⁄15 [chainNauticalUK], or 185.3184 meter.
      */
@@ -968,7 +968,7 @@ export default class UnitLength extends Unit {
     /**
      * **nautical chain**
      * 
-     * Symbols: nch
+     * Symbols: "nch"
      * 
      * Imperial nautical unit. Equal to 5 [yardImperial], 5⁄2 [fathomImperial]:, or 4.572 [meter].
      */
@@ -984,7 +984,7 @@ export default class UnitLength extends Unit {
     /**
      * **fathom**
      * 
-     * Symbols: fath
+     * Symbols: "fath"
      * 
      * Imperial nautical unit. Equal to 2 [yardImperial] or 1.8288 [meter].
      */
@@ -1004,7 +1004,7 @@ export default class UnitLength extends Unit {
     /**
      * **copper X unit**
      * 
-     * Symbols: xu(CuKα₁)
+     * Symbols: "xu(CuKα₁)"
      * 
      * Copper X-ray wavelength unit. Equal to 1.00207697(28)ᴇ-13 [meter]. {2018 CODATA}
      */
@@ -1020,7 +1020,7 @@ export default class UnitLength extends Unit {
     /**
      * **molybdenum X unit**
      * 
-     * Symbols: xu(MoKα₁)
+     * Symbols: "xu(MoKα₁)"
      * 
      * Molybdenum X-ray wavelength unit. Equal to 1.00209952(53)ᴇ-13 [meter]. {2018 CODATA}
      */
@@ -1036,7 +1036,7 @@ export default class UnitLength extends Unit {
     /**
      * **Plank length**
      * 
-     * Symbols: Lₚ
+     * Symbols: "Lₚ"
      * 
      * Equal to 1.6160(12)ᴇ-35 [meter]
      */
@@ -1056,7 +1056,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine digit**
      * 
-     * Symbols: δάκτυλος
+     * Symbols: "δάκτυλος"
      * 
      * Ancient Byzantine unit. Equal to 1⁄16 [pousByzantine] or 1.951875 [centimeter].
      */
@@ -1072,7 +1072,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine palm**
      * 
-     * Symbols: παλαιστή
+     * Symbols: "παλαιστή"
      * 
      * Ancient Byzantine unit. Equal to ¼ [pousByzantine] or 7.8075 [centimeter].
      */
@@ -1088,7 +1088,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine half-pous**
      * 
-     * Symbols: ἡμιπόδιον
+     * Symbols: "ἡμιπόδιον"
      * 
      * Ancient Byzantine unit. Equal to ½ [pousByzantine] or 15.615 [centimeter].
      */
@@ -1104,7 +1104,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine span**
      * 
-     * Symbols: σπιθαμή
+     * Symbols: "σπιθαμή"
      * 
      * Ancient Byzantine unit. Equal to ¾ [pousByzantine] or 23.4225 [centimeter].
      */
@@ -1120,7 +1120,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine pous**
      * 
-     * Symbols: ποῦς
+     * Symbols: "ποῦς"
      * 
      * Ancient Byzantine unit. Equal to 31.23 [centimeter].
      */
@@ -1136,7 +1136,7 @@ export default class UnitLength extends Unit {
     /**
      * **public cubit**
      * 
-     * Symbols: δημόσιος πῆχυς
+     * Symbols: "δημόσιος πῆχυς"
      * 
      * Ancient Byzantine unit. Equal to 1.5 [pousByzantine] or 46.845 [centimeter].
      */
@@ -1152,7 +1152,7 @@ export default class UnitLength extends Unit {
     /**
      * **geometric cubit**
      * 
-     * Symbols: γεωμετρικός πῆχυς
+     * Symbols: "γεωμετρικός πῆχυς"
      * 
      * Ancient Byzantine unit. Equal to 2 [pousByzantine] or 62.46 [centimeter].
      */
@@ -1168,7 +1168,7 @@ export default class UnitLength extends Unit {
     /**
      * **single pace**
      * 
-     * Symbols: βῆμα ἁπλοῦν
+     * Symbols: "βῆμα ἁπλοῦν"
      * 
      * Ancient Byzantine unit. Equal to 2.5 [pousByzantine] or 78.075 [centimeter].
      */
@@ -1184,7 +1184,7 @@ export default class UnitLength extends Unit {
     /**
      * **double pace**
      * 
-     * Symbols: βῆμα διπλοῦν
+     * Symbols: "βῆμα διπλοῦν"
      * 
      * Ancient Byzantine unit. Equal to 5 [pousByzantine] or 1.5615 [meter].
      */
@@ -1200,7 +1200,7 @@ export default class UnitLength extends Unit {
     /**
      * **simple orguia**
      * 
-     * Symbols: ἁπλὴ ὀργυιά
+     * Symbols: "ἁπλὴ ὀργυιά"
      * 
      * Ancient Byzantine unit. Equal to 6 [pousByzantine] or 1.8738 [meter].
      */
@@ -1216,7 +1216,7 @@ export default class UnitLength extends Unit {
     /**
      * **geometric orguia**
      * 
-     * Symbols: geômetrikê orguiá
+     * Symbols: "geômetrikê orguiá"
      * 
      * Ancient Byzantine unit. Equal to 6¾ [pousByzantine] or 2.108025 [meter].
      */
@@ -1232,7 +1232,7 @@ export default class UnitLength extends Unit {
     /**
      * **perch**
      * 
-     * Symbols: δεκάποδον
+     * Symbols: "δεκάποδον"
      * 
      * Ancient Byzantine unit. Equal to 10 [pousByzantine] or 3.123 [meter].
      */
@@ -1248,7 +1248,7 @@ export default class UnitLength extends Unit {
     /**
      * **schoinion (Balkan & West Anatolian)**
      * 
-     * Symbols: σχοινιον
+     * Symbols: "σχοινιον"
      * 
      * Ancient Byzantine unit in Balkan and west Anatolian. Equal to 60 [pousByzantine] or 18.738 [meter].
      */
@@ -1264,7 +1264,7 @@ export default class UnitLength extends Unit {
     /**
      * **schoinion (Asia Minor)**
      * 
-     * Symbols: σχοινιον
+     * Symbols: "σχοινιον"
      * 
      * Ancient Byzantine unit in the rest of Asia Minor. Equal to 72 [pousByzantine] or 22.4856 [meter].
      */
@@ -1280,7 +1280,7 @@ export default class UnitLength extends Unit {
     /**
      * **plethron**
      * 
-     * Symbols: πλέθρον
+     * Symbols: "πλέθρον"
      * 
      * Ancient Byzantine unit. Equal to 100 [pousByzantine] or 31.23 [meter].
      */
@@ -1296,7 +1296,7 @@ export default class UnitLength extends Unit {
     /**
      * **stade**
      * 
-     * Symbols: στάδιον
+     * Symbols: "στάδιον"
      * 
      * Ancient Byzantine unit. Equal to 600 [pousByzantine] or 187.38 [meter].
      */
@@ -1312,7 +1312,7 @@ export default class UnitLength extends Unit {
     /**
      * **bowshot**
      * 
-     * Symbols: δοξαριού βολή
+     * Symbols: "δοξαριού βολή"
      * 
      * Ancient Byzantine unit. Equal to 1000 [pousByzantine] or 312.3 [meter].
      */
@@ -1328,7 +1328,7 @@ export default class UnitLength extends Unit {
     /**
      * **Byzantine mile**
      * 
-     * Symbols: μίλιον
+     * Symbols: "μίλιον"
      * 
      * Ancient Byzantine unit. Equal to 5000 [pousByzantine] or 1.5615 [kilometer].
      */
@@ -1344,7 +1344,7 @@ export default class UnitLength extends Unit {
     /**
      * **schoenus**
      * 
-     * Symbols: σχοινος
+     * Symbols: "σχοινος"
      * 
      * Ancient Byzantine unit. Equal to 20000 [pousByzantine] or 6.246 [kilometer].
      */
@@ -1360,7 +1360,7 @@ export default class UnitLength extends Unit {
     /**
      * **day's journey**
      * 
-     * Symbols: ὁδός ἡμέρας
+     * Symbols: "ὁδός ἡμέρας"
      * 
      * Ancient Byzantine unit. Equal to 150000 [pousByzantine] or 46.845 [kilometer].
      */
@@ -1376,7 +1376,7 @@ export default class UnitLength extends Unit {
     /**
      * **week's journey**
      * 
-     * Symbols: ὁδός σαββάτου
+     * Symbols: "ὁδός σαββάτου"
      * 
      * Ancient Byzantine unit. Equal to 1050000 [pousByzantine] or 327.915 [kilometer].
      */
@@ -1396,7 +1396,7 @@ export default class UnitLength extends Unit {
     /**
      * **Cornish fathom**
      * 
-     * Symbols: ftm
+     * Symbols: "ftm"
      * 
      * Old Cornish unit. Equal to 5 [footImperial] or 1.524 [meter].
      */
@@ -1412,7 +1412,7 @@ export default class UnitLength extends Unit {
     /**
      * **Cornish mile**
      * 
-     * Symbols: mi
+     * Symbols: "mi"
      * 
      * Old Cornish unit. Equal to 1.5 [mileImperial] or 2.414016 [kilometer].
      */
@@ -1432,7 +1432,7 @@ export default class UnitLength extends Unit {
     /**
      * **pic**
      * 
-     * Symbols: pic
+     * Symbols: "pic"
      * 
      * Old Cypriot unit. Equal to 2 [footCypriot] or 60.96 [centimeter].
      */
@@ -1448,7 +1448,7 @@ export default class UnitLength extends Unit {
     /**
      * **Cypriot foot**
      * 
-     * Symbols: ft
+     * Symbols: "ft"
      * 
      * Old Cypriot unit. Equal to 30.48 [centimeter].
      */
@@ -1468,7 +1468,7 @@ export default class UnitLength extends Unit {
     /**
      * **Bohemian stopa**
      * 
-     * Symbols: stopa
+     * Symbols: "stopa"
      * 
      * Old Czech unit in Bohemia. Equal to 0.296 [meter].
      */
@@ -1484,7 +1484,7 @@ export default class UnitLength extends Unit {
     /**
      * **Bohemian loket**
      * 
-     * Symbols: loket
+     * Symbols: "loket"
      * 
      * Old Czech unit in Bohemia. Equal to 2 [stopaBohemian] or 0.592 [meter].
      */
@@ -1500,7 +1500,7 @@ export default class UnitLength extends Unit {
     /**
      * **Bohemian sah**
      * 
-     * Symbols: sah
+     * Symbols: "sah"
      * 
      * Old Czech unit in Bohemia. Equal to 3 [stopaBohemian] or 1.776 [meter].
      */
@@ -1516,7 +1516,7 @@ export default class UnitLength extends Unit {
     /**
      * **Bohemian latro**
      * 
-     * Symbols: latro
+     * Symbols: "latro"
      * 
      * Old Czech unit in Bohemia. Equal to 129⁄120 [sahBohemian] or 1.9092 [meter].
      */
@@ -1532,7 +1532,7 @@ export default class UnitLength extends Unit {
     /**
      * **Bohemian mile**
      * 
-     * Symbols: mi
+     * Symbols: "mi"
      * 
      * Old Czech unit in Bohemia. Equal to 3660 [latroBohemian] or 6.987672 [kilometer].
      */
@@ -1548,7 +1548,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha stopa**
      * 
-     * Symbols: stopa
+     * Symbols: "stopa"
      * 
      * Old Czech unit in Prague. Equal to 0.2965 [meter].
      */
@@ -1564,7 +1564,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha loket**
      * 
-     * Symbols: loket
+     * Symbols: "loket"
      * 
      * Old Czech unit in Prague. Equal to 2 [stopaPraha] or 0.593 [meter].
      */
@@ -1580,7 +1580,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha sah**
      * 
-     * Symbols: sah
+     * Symbols: "sah"
      * 
      * Old Czech unit in Prague. Equal to 3 [loketPraha] or 1.779 [meter].
      */
@@ -1596,7 +1596,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha latro**
      * 
-     * Symbols: latro
+     * Symbols: "latro"
      * 
      * Old Czech unit in Prague. Equal to 129⁄120 Praha sah or 1.912425 [meter].
      */
@@ -1612,7 +1612,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha mile**
      * 
-     * Symbols: mi
+     * Symbols: "mi"
      * 
      * Old Czech unit in Prague. Equal to 3660 [latroPraha] or 6.9994755 [kilometer].
      */
@@ -1628,7 +1628,7 @@ export default class UnitLength extends Unit {
     /**
      * **Praha stopa**
      * 
-     * Symbols: stopa
+     * Symbols: "stopa"
      * 
      * Old Czech unit in Moravia. Equal to 0.284 [meter].
      */
@@ -1644,7 +1644,7 @@ export default class UnitLength extends Unit {
     /**
      * **Moravian loket**
      * 
-     * Symbols: loket
+     * Symbols: "loket"
      * 
      * Old Czech unit in Moravia. Equal to 2 [stopaMoravian] or 0.568 [meter].
      */
@@ -1660,7 +1660,7 @@ export default class UnitLength extends Unit {
     /**
      * **Moravian sah**
      * 
-     * Symbols: sah
+     * Symbols: "sah"
      * 
      * Old Czech unit in Moravia. Equal to 3 [loketMoravian] or 1.704 [meter].
      */
@@ -1676,7 +1676,7 @@ export default class UnitLength extends Unit {
     /**
      * **Moravian latro**
      * 
-     * Symbols: latro
+     * Symbols: "latro"
      * 
      * Old Czech unit in Moravia. Equal to 129⁄120 [sahMoravian] or 1.8318 [meter].
      */
@@ -1692,7 +1692,7 @@ export default class UnitLength extends Unit {
     /**
      * **Morovian mile**
      * 
-     * Symbols: mi
+     * Symbols: "mi"
      * 
      * Old Czech unit in Moravia. Equal to 3660 [latroMoravian] or 6.704388 [kilometer].
      */
@@ -1708,7 +1708,7 @@ export default class UnitLength extends Unit {
     /**
      * **stopa**
      * 
-     * Symbols: stopa
+     * Symbols: "stopa"
      * 
      * Old Czech unit in Silesia. Equal to 0.2895 [meter].
      */
@@ -1724,7 +1724,7 @@ export default class UnitLength extends Unit {
     /**
      * **Silesian loket**
      * 
-     * Symbols: loket
+     * Symbols: "loket"
      * 
      * Old Czech unit in Silesia. Equal to 2 [stopaSilesian] or 0.579 [meter].
      */
@@ -1740,7 +1740,7 @@ export default class UnitLength extends Unit {
     /**
      * **Silesian sah**
      * 
-     * Symbols: sah
+     * Symbols: "sah"
      * 
      * Old Czech unit in Silesia. Equal to 3 [loketSilesian] or 1.737 [meter].
      */
@@ -1756,7 +1756,7 @@ export default class UnitLength extends Unit {
     /**
      * **Silesian latro**
      * 
-     * Symbols: latro
+     * Symbols: "latro"
      * 
      * Old Czech unit in Silesia. Equal to 129⁄120 [sahSilesian] or 1.867275 [meter].
      */
@@ -1772,7 +1772,7 @@ export default class UnitLength extends Unit {
     /**
      * **Silesian mile**
      * 
-     * Symbols: mi
+     * Symbols: "mi"
      * 
      * Old Czech unit in Silesia. Equal to 3660 [latroSilesian] or 6.8342265 [kilometer].
      */
@@ -1792,7 +1792,7 @@ export default class UnitLength extends Unit {
     /**
      * **miil**
      * 
-     * Symbols: miil
+     * Symbols: "miil"
      * 
      * Old Danish unit. Equal to 2000 [ruthe] or 7.532568 [kilometer].
      */
@@ -1808,7 +1808,7 @@ export default class UnitLength extends Unit {
     /**
      * **ruthe**
      * 
-     * Symbols: ruthe
+     * Symbols: "ruthe"
      * 
      * Old Danish unit. Equal to 2 [favn] or 3.766284 [meter].
      */
@@ -1824,7 +1824,7 @@ export default class UnitLength extends Unit {
     /**
      * **favn**
      * 
-     * Symbols: favn
+     * Symbols: "favn"
      * 
      * Old Danish unit. Equal to 3 [aln] or 1.883142 [meter].
      */
@@ -1840,7 +1840,7 @@ export default class UnitLength extends Unit {
     /**
      * **aln**
      * 
-     * Symbols: aln
+     * Symbols: "aln"
      * 
      * Old Danish unit. Equal to 2 [fod] or 0.627714 [meter].
      */
@@ -1856,7 +1856,7 @@ export default class UnitLength extends Unit {
     /**
      * **fod**
      * 
-     * Symbols: fod
+     * Symbols: "fod"
      * 
      * Old Danish unit. Equal to 12 [tomme] or 0.313857 [meter].
      */
@@ -1872,7 +1872,7 @@ export default class UnitLength extends Unit {
     /**
      * **tomme**
      * 
-     * Symbols: tomme
+     * Symbols: "tomme"
      * 
      * Old Danish unit. Equal to 12 [linie] or 2.615475 [centimeter].
      */
@@ -1888,7 +1888,7 @@ export default class UnitLength extends Unit {
     /**
      * **linie**
      * 
-     * Symbols: linie
+     * Symbols: "linie"
      * 
      * Old Danish unit. Equal to 2.1795625 [millimeter].
      */
@@ -1908,7 +1908,7 @@ export default class UnitLength extends Unit {
     /**
      * **uren**
      * 
-     * Symbols: uren
+     * Symbols: "uren"
      * 
      * Old Dutch unit. Equal to 5 [myl] or 5.000244301 [kilometer].
      */
@@ -1924,7 +1924,7 @@ export default class UnitLength extends Unit {
     /**
      * **myl**
      * 
-     * Symbols: myl
+     * Symbols: "myl"
      * 
      * Old Dutch unit. Equal to 3533⁄13 [roeden] or 1.0000488602 [kilometer].
      */
@@ -1940,7 +1940,7 @@ export default class UnitLength extends Unit {
     /**
      * **roeden**
      * 
-     * Symbols: roeden
+     * Symbols: "roeden"
      * 
      * Old Dutch unit. Equal to 26⁄5 elle or 3.6797722 [meter].
      */
@@ -1956,7 +1956,7 @@ export default class UnitLength extends Unit {
     /**
      * **elle**
      * 
-     * Symbols: elle
+     * Symbols: "elle"
      * 
      * Old Dutch unit. Equal to 5⁄2 [voeten] or 0.7076485 [meter].
      */
@@ -1972,7 +1972,7 @@ export default class UnitLength extends Unit {
     /**
      * **voeten**
      * 
-     * Symbols: voeten
+     * Symbols: "voeten"
      * 
      * Old Dutch unit. Equal to 12 [duime] or 0.2830594 [meter].
      */
@@ -1988,7 +1988,7 @@ export default class UnitLength extends Unit {
     /**
      * **duime**
      * 
-     * Symbols: duime
+     * Symbols: "duime"
      * 
      * Old Dutch unit. Equal to 12 [lyne] or 2.3588283̅ [centimeter].
      */
@@ -2004,7 +2004,7 @@ export default class UnitLength extends Unit {
     /**
      * **lyne**
      * 
-     * Symbols: lyne
+     * Symbols: "lyne"
      * 
      * Old Dutch unit. Equal to 1.96569027̅ [millimeter].
      */

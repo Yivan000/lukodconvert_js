@@ -16,7 +16,7 @@ export default class UnitMass extends Unit {
     /**
      * **kilogram**
      * 
-     * Symbols: kg
+     * Symbols: "kg"
      * 
      * Base SI metric unit. Equal to 10 [hectogram] or 1000 [gram].
      */
@@ -32,7 +32,7 @@ export default class UnitMass extends Unit {
     /**
      * **quettagram**
      * 
-     * Symbols: Qg
+     * Symbols: "Qg"
      * 
      * SI metric unit. Equal to 1000 [ronnagram] or 1ᴇ30 [gram]. Adopted 2022.
      */
@@ -48,7 +48,7 @@ export default class UnitMass extends Unit {
     /**
      * **ronnagram**
      * 
-     * Symbols: Rg
+     * Symbols: "Rg"
      * 
      * SI metric unit. Equal to 1000 [yottagram] or 1ᴇ27 [gram]. Adopted 2022.
      */
@@ -64,7 +64,7 @@ export default class UnitMass extends Unit {
     /**
      * **yottagram**
      * 
-     * Symbols: Yg
+     * Symbols: "Yg"
      * 
      * SI metric unit. Equal to 1000 [zettagram] or 1ᴇ24 gram. Adopted 1991.
      */
@@ -80,7 +80,7 @@ export default class UnitMass extends Unit {
     /**
      * **zettagram**
      * 
-     * Symbols: Zg
+     * Symbols: "Zg"
      * 
      * SI metric unit. Equal to 1000 [exagram] or 1ᴇ21 [gram]. Adopted 1991.
      */
@@ -96,7 +96,7 @@ export default class UnitMass extends Unit {
     /**
      * **exagram**
      * 
-     * Symbols: Eg
+     * Symbols: "Eg"
      * 
      * SI metric unit. Equal to 1000 [petagram] or 1ᴇ18 [gram]. Adopted 1975.
      */
@@ -112,7 +112,7 @@ export default class UnitMass extends Unit {
     /**
      * **petagram**
      * 
-     * Symbols: Pg
+     * Symbols: "Pg"
      * 
      * SI metric unit. Equal to 1000 [teragram] or 1ᴇ15 [gram]. Adopted 1975.
      */
@@ -128,7 +128,7 @@ export default class UnitMass extends Unit {
     /**
      * **teragram**
      * 
-     * Symbols: Tg
+     * Symbols: "Tg"
      * 
      * SI metric unit. Equal to 1000 [gigagram] or 1ᴇ12 [gram]. Adopted 1960.
      */
@@ -144,7 +144,7 @@ export default class UnitMass extends Unit {
     /**
      * **gigagram**
      * 
-     * Symbols: Gg
+     * Symbols: "Gg"
      * 
      * SI metric unit. Equal to 1000 [megagram] or 1ᴇ9 [gram]. Adopted 1960.
      */
@@ -160,7 +160,7 @@ export default class UnitMass extends Unit {
     /**
      * **megagram**
      * 
-     * Symbols: Mg
+     * Symbols: "Mg"
      * 
      * SI metric unit. Equal to 1000 [kilogram] or 1ᴇ6 [gram]. Adopted 1873.
      */
@@ -176,7 +176,7 @@ export default class UnitMass extends Unit {
     /**
      * **hectogram**
      * 
-     * Symbols: hg
+     * Symbols: "hg"
      * 
      * SI metric unit. Equal to 10 [decagram] or 100 [gram]. Adopted 1795.
      */
@@ -192,7 +192,7 @@ export default class UnitMass extends Unit {
     /**
      * **decagram**
      * 
-     * Symbols: dag
+     * Symbols: "dag"
      * 
      * SI metric unit. Equal to 10 [gram]. Adopted 1795.
      */
@@ -208,7 +208,7 @@ export default class UnitMass extends Unit {
     /**
      * **gram**
      * 
-     * Symbols: g
+     * Symbols: "g"
      * 
      * SI metric unit. Equal to 0.001 [kilogram].
      */
@@ -224,7 +224,7 @@ export default class UnitMass extends Unit {
     /**
      * **decigram**
      * 
-     * Symbols: dg
+     * Symbols: "dg"
      * 
      * SI metric unit. Equal to 10 [centigram] or 0.1 [gram]. Adopted 1795.
      */
@@ -240,7 +240,7 @@ export default class UnitMass extends Unit {
     /**
      * **centigram**
      * 
-     * Symbols: cg
+     * Symbols: "cg"
      * 
      * SI metric unit. Equal to 10 [milligram] or 0.01 [gram]. Adopted 1795.
      */
@@ -256,7 +256,7 @@ export default class UnitMass extends Unit {
     /**
      * **milligram**
      * 
-     * Symbols: mg
+     * Symbols: "mg"
      * 
      * SI metric unit. Equal to 1000 [microgram] or 0.001 [gram]. Adopted 1795.
      */
@@ -272,7 +272,7 @@ export default class UnitMass extends Unit {
     /**
      * **microgram**
      * 
-     * Symbols: μg
+     * Symbols: "μg"
      * 
      * SI metric unit. Equal to 1000 [nanogram] or 1ᴇ-6 [gram]. Adopted 1873.
      */
@@ -288,7 +288,7 @@ export default class UnitMass extends Unit {
     /**
      * **nanogram**
      * 
-     * Symbols: ng
+     * Symbols: "ng"
      * 
      * SI metric unit. Equal to 1000 [picogram] or 1ᴇ-9 [gram]. Adopted 1960.
      */
@@ -304,7 +304,7 @@ export default class UnitMass extends Unit {
     /**
      * **picogram**
      * 
-     * Symbols: pg
+     * Symbols: "pg"
      * 
      * SI metric unit. Equal to 1000 [femtogram] or 1ᴇ-12 [gram]. Adopted 1960.
      */
@@ -320,7 +320,7 @@ export default class UnitMass extends Unit {
     /**
      * **femtogram**
      * 
-     * Symbols: fg
+     * Symbols: "fg"
      * 
      * SI metric unit. Equal to 1000 [attogram] or 1ᴇ-15 [gram]. Adopted 1964.
      */
@@ -336,7 +336,7 @@ export default class UnitMass extends Unit {
     /**
      * **attogram**
      * 
-     * Symbols: ag
+     * Symbols: "ag"
      * 
      * SI metric unit. Equal to 1000 [zeptogram] or 1ᴇ-18 [gram]. Adopted 1964.
      */
@@ -352,7 +352,7 @@ export default class UnitMass extends Unit {
     /**
      * **zeptogram**
      * 
-     * Symbols: zg
+     * Symbols: "zg"
      * 
      * SI metric unit. Equal to 1000 [yoctogram] or 1ᴇ-21 [gram]. Adopted 1991.
      */
@@ -368,7 +368,7 @@ export default class UnitMass extends Unit {
     /**
      * **yoctogram**
      * 
-     * Symbols: yg
+     * Symbols: "yg"
      * 
      * SI metric unit. Equal to 1000 [rontogram] or 1ᴇ-24 [gram]. Adopted 1991.
      */
@@ -384,7 +384,7 @@ export default class UnitMass extends Unit {
     /**
      * **rontogram**
      * 
-     * Symbols: rg
+     * Symbols: "rg"
      * 
      * SI metric unit. Equal to 1000 [quectogram] or 1ᴇ-27 [gram]. Adopted 2022.
      */
@@ -400,7 +400,7 @@ export default class UnitMass extends Unit {
     /**
      * **quectogram**
      * 
-     * Symbols: qg
+     * Symbols: "qg"
      * 
      * SI metric unit. Equal to 1ᴇ-30 [gram]. Adopted 2022.
      */

@@ -16,7 +16,7 @@ export default class UnitAcceleration extends Unit {
     /**
      * **meter per second squared**
      * 
-     * Symbols: m/s²
+     * Symbols: "m/s²"
      * 
      * SI base metric unit.
      */
@@ -36,7 +36,7 @@ export default class UnitAcceleration extends Unit {
     /**
      * **foot per second squared**
      * 
-     * Symbols: ft/s²
+     * Symbols: "ft/s²"
      * 
      * FPS unit. Equal to 0.3048 [meterPerSecondSquared].
      */

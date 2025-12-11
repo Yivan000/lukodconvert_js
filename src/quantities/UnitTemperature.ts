@@ -16,7 +16,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **kelvin**
      * 
-     * Symbols: K
+     * Symbols: "K"
      * 
      * Base SI metric unit.
      */
@@ -32,7 +32,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **quettakelvin**
      * 
-     * Symbols: QK
+     * Symbols: "QK"
      * 
      * SI metric unit. Equal to 1000 [ronnakelvin] or 1ᴇ30 [kelvin]. Adopted 2022.
      */
@@ -48,7 +48,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **ronnakelvin**
      * 
-     * Symbols: RK
+     * Symbols: "RK"
      * 
      * SI metric unit. Equal to 1000 [yottakelvin] or 1ᴇ27 [kelvin]. Adopted 2022.
      */
@@ -64,7 +64,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **yottakelvin**
      * 
-     * Symbols: YK
+     * Symbols: "YK"
      * 
      * SI metric unit. Equal to 1000 [zettakelvin] or 1ᴇ24 kelvin. Adopted 1991.
      */
@@ -80,7 +80,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **zettakelvin**
      * 
-     * Symbols: ZK
+     * Symbols: "ZK"
      * 
      * SI metric unit. Equal to 1000 [exakelvin] or 1ᴇ21 [kelvin]. Adopted 1991.
      */
@@ -96,7 +96,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **exakelvin**
      * 
-     * Symbols: EK
+     * Symbols: "EK"
      * 
      * SI metric unit. Equal to 1000 [petakelvin] or 1ᴇ18 [kelvin]. Adopted 1975.
      */
@@ -112,7 +112,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **petakelvin**
      * 
-     * Symbols: PK
+     * Symbols: "PK"
      * 
      * SI metric unit. Equal to 1000 [terakelvin] or 1ᴇ15 [kelvin]. Adopted 1975.
      */
@@ -128,7 +128,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **terakelvin**
      * 
-     * Symbols: TK
+     * Symbols: "TK"
      * 
      * SI metric unit. Equal to 1000 [gigakelvin] or 1ᴇ12 [kelvin]. Adopted 1960.
      */
@@ -144,7 +144,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **gigakelvin**
      * 
-     * Symbols: GK
+     * Symbols: "GK"
      * 
      * SI metric unit. Equal to 1000 [megakelvin] or 1ᴇ9 [kelvin]. Adopted 1960.
      */
@@ -160,7 +160,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **megakelvin**
      * 
-     * Symbols: MK
+     * Symbols: "MK"
      * 
      * SI metric unit. Equal to 1000 [kilokelvin] or 1ᴇ6 [kelvin]. Adopted 1873.
      */
@@ -176,7 +176,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **kilokelvin**
      * 
-     * Symbols: kK
+     * Symbols: "kK"
      * 
      * SI metric unit. Equal to 10 [hectokelvin] or 1000 [kelvin]. Adopted 1795.
      */
@@ -192,7 +192,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **hectokelvin**
      * 
-     * Symbols: hK
+     * Symbols: "hK"
      * 
      * SI metric unit. Equal to 10 [decakelvin] or 100 [kelvin]. Adopted 1795.
      */
@@ -208,7 +208,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **decakelvin**
      * 
-     * Symbols: daK
+     * Symbols: "daK"
      * 
      * SI metric unit. Equal to 10 [kelvin]. Adopted 1795.
      */
@@ -224,7 +224,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **decikelvin**
      * 
-     * Symbols: dK
+     * Symbols: "dK"
      * 
      * SI metric unit. Equal to 10 [centikelvin] or 0.1 [kelvin]. Adopted 1795.
      */
@@ -240,7 +240,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **centikelvin**
      * 
-     * Symbols: cK
+     * Symbols: "cK"
      * 
      * SI metric unit. Equal to 10 [millikelvin] or 0.01 [kelvin]. Adopted 1795.
      */
@@ -256,7 +256,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **millikelvin**
      * 
-     * Symbols: mK
+     * Symbols: "mK"
      * 
      * SI metric unit. Equal to 1000 [microkelvin] or 0.001 [kelvin]. Adopted 1795.
      */
@@ -272,7 +272,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **microkelvin**
      * 
-     * Symbols: μK
+     * Symbols: "μK"
      * 
      * SI metric unit. Equal to 1000 [nanokelvin] or 1ᴇ-6 [kelvin]. Adopted 1873.
      */
@@ -288,7 +288,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **nanokelvin**
      * 
-     * Symbols: nK
+     * Symbols: "nK"
      * 
      * SI metric unit. Equal to 1000 [picokelvin] or 1ᴇ-9 [kelvin]. Adopted 1960.
      */
@@ -304,7 +304,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **picokelvin**
      * 
-     * Symbols: pK
+     * Symbols: "pK"
      * 
      * SI metric unit. Equal to 1000 [femtokelvin] or 1ᴇ-12 [kelvin]. Adopted 1960.
      */
@@ -320,7 +320,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **femtokelvin**
      * 
-     * Symbols: fK
+     * Symbols: "fK"
      * 
      * SI metric unit. Equal to 1000 [attokelvin] or 1ᴇ-15 [kelvin]. Adopted 1964.
      */
@@ -336,7 +336,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **attokelvin**
      * 
-     * Symbols: aK
+     * Symbols: "aK"
      * 
      * SI metric unit. Equal to 1000 [zeptokelvin] or 1ᴇ-18 [kelvin]. Adopted 1964.
      */
@@ -352,7 +352,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **zeptokelvin**
      * 
-     * Symbols: zK
+     * Symbols: "zK"
      * 
      * SI metric unit. Equal to 1000 [yoctokelvin] or 1ᴇ-21 [kelvin]. Adopted 1991.
      */
@@ -368,7 +368,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **yoctokelvin**
      * 
-     * Symbols: yK
+     * Symbols: "yK"
      * 
      * SI metric unit. Equal to 1000 [rontokelvin] or 1ᴇ-24 [kelvin]. Adopted 1991.
      */
@@ -384,7 +384,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **rontokelvin**
      * 
-     * Symbols: rK
+     * Symbols: "rK"
      * 
      * SI metric unit. Equal to 1000 [quectokelvin] or 1ᴇ-27 [kelvin]. Adopted 2022.
      */
@@ -400,7 +400,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **quectokelvin**
      * 
-     * Symbols: qK
+     * Symbols: "qK"
      * 
      * SI metric unit. Equal to 1ᴇ-30 [kelvin]. Adopted 2022.
      */
@@ -416,7 +416,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **Celsius**
      * 
-     * Symbols: ˚C
+     * Symbols: "˚C"
      * 
      * SI derived metric unit. 0˚C is equal to 273.15 [kelvin].
      */
@@ -436,7 +436,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **Fahrenheit**
      * 
-     * Symbols: ˚F
+     * Symbols: "˚F"
      * 
      * Imperial unit. 0 ˚F is equal to -17.7̅ [celsius] or 255.372̅ [kelvin].
      */
@@ -452,7 +452,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **Rankine**
      * 
-     * Symbols: ˚R
+     * Symbols: "˚R"
      * 
      * Imperial derived unit. 0 ˚R is equal to -459.67 [fahrenheit], -275.15 [celsius], or 0 [kelvin].
      */
@@ -472,7 +472,7 @@ export default class UnitTemperature extends Unit {
     /**
      * **Réaumur**
      * 
-     * Symbols: ˚Ré,˚Re
+     * Symbols: "˚Ré","˚Re"
      * 
      * Old French unit. 0 ˚Ré is equal to 0 [celsius]; 80 ˚Ré is equal to 100 [celsius].
      */

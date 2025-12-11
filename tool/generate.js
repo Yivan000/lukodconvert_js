@@ -166,7 +166,7 @@ export default class ${name} extends Unit {
     /**
      * **${inputI18n[i[0]]["name"][0]["one"] ?? inputI18n[i[0]]["name"][0] ?? i[0]}**
      * 
-     * Symbols: ${inputI18n[i[0]]["symbol"]?.toString().replaceAll(/[\[\]]/g, "") ?? '_none_'}
+     * Symbols: ${JSON.stringify(inputI18n[i[0]]["symbol"]).replaceAll(/[\[\]]/g, "") ?? '_none_'}
      * 
      * ${desc}
      */

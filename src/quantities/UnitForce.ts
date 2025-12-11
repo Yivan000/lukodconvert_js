@@ -16,7 +16,7 @@ export default class UnitForce extends Unit {
     /**
      * **newton**
      * 
-     * Symbols: N
+     * Symbols: "N"
      * 
      * Base SI metric unit.
      */
@@ -32,7 +32,7 @@ export default class UnitForce extends Unit {
     /**
      * **quettanewton**
      * 
-     * Symbols: QN
+     * Symbols: "QN"
      * 
      * SI metric unit. Equal to 1000 [ronnanewton] or 1ᴇ30 [newton]. Adopted 2022.
      */
@@ -48,7 +48,7 @@ export default class UnitForce extends Unit {
     /**
      * **ronnanewton**
      * 
-     * Symbols: RN
+     * Symbols: "RN"
      * 
      * SI metric unit. Equal to 1000 [yottanewton] or 1ᴇ27 [newton]. Adopted 2022.
      */
@@ -64,7 +64,7 @@ export default class UnitForce extends Unit {
     /**
      * **yottanewton**
      * 
-     * Symbols: YN
+     * Symbols: "YN"
      * 
      * SI metric unit. Equal to 1000 [zettanewton] or 1ᴇ24 newton. Adopted 1991.
      */
@@ -80,7 +80,7 @@ export default class UnitForce extends Unit {
     /**
      * **zettanewton**
      * 
-     * Symbols: ZN
+     * Symbols: "ZN"
      * 
      * SI metric unit. Equal to 1000 [exanewton] or 1ᴇ21 [newton]. Adopted 1991.
      */
@@ -96,7 +96,7 @@ export default class UnitForce extends Unit {
     /**
      * **exanewton**
      * 
-     * Symbols: EN
+     * Symbols: "EN"
      * 
      * SI metric unit. Equal to 1000 [petanewton] or 1ᴇ18 [newton]. Adopted 1975.
      */
@@ -112,7 +112,7 @@ export default class UnitForce extends Unit {
     /**
      * **petanewton**
      * 
-     * Symbols: PN
+     * Symbols: "PN"
      * 
      * SI metric unit. Equal to 1000 [teranewton] or 1ᴇ15 [newton]. Adopted 1975.
      */
@@ -128,7 +128,7 @@ export default class UnitForce extends Unit {
     /**
      * **teranewton**
      * 
-     * Symbols: TN
+     * Symbols: "TN"
      * 
      * SI metric unit. Equal to 1000 [giganewton] or 1ᴇ12 [newton]. Adopted 1960.
      */
@@ -144,7 +144,7 @@ export default class UnitForce extends Unit {
     /**
      * **giganewton**
      * 
-     * Symbols: GN
+     * Symbols: "GN"
      * 
      * SI metric unit. Equal to 1000 [meganewton] or 1ᴇ9 [newton]. Adopted 1960.
      */
@@ -160,7 +160,7 @@ export default class UnitForce extends Unit {
     /**
      * **meganewton**
      * 
-     * Symbols: MN
+     * Symbols: "MN"
      * 
      * SI metric unit. Equal to 1000 [kilonewton] or 1ᴇ6 [newton]. Adopted 1873.
      */
@@ -176,7 +176,7 @@ export default class UnitForce extends Unit {
     /**
      * **kilonewton**
      * 
-     * Symbols: kN
+     * Symbols: "kN"
      * 
      * SI metric unit. Equal to 10 [hectonewton] or 1000 [newton]. Adopted 1795.
      */
@@ -192,7 +192,7 @@ export default class UnitForce extends Unit {
     /**
      * **hectonewton**
      * 
-     * Symbols: hN
+     * Symbols: "hN"
      * 
      * SI metric unit. Equal to 10 [decanewton] or 100 [newton]. Adopted 1795.
      */
@@ -208,7 +208,7 @@ export default class UnitForce extends Unit {
     /**
      * **decanewton**
      * 
-     * Symbols: daN
+     * Symbols: "daN"
      * 
      * SI metric unit. Equal to 10 [newton]. Adopted 1795.
      */
@@ -224,7 +224,7 @@ export default class UnitForce extends Unit {
     /**
      * **decinewton**
      * 
-     * Symbols: dN
+     * Symbols: "dN"
      * 
      * SI metric unit. Equal to 10 [centinewton] or 0.1 [newton]. Adopted 1795.
      */
@@ -240,7 +240,7 @@ export default class UnitForce extends Unit {
     /**
      * **centinewton**
      * 
-     * Symbols: cN
+     * Symbols: "cN"
      * 
      * SI metric unit. Equal to 10 [millinewton] or 0.01 [newton]. Adopted 1795.
      */
@@ -256,7 +256,7 @@ export default class UnitForce extends Unit {
     /**
      * **millinewton**
      * 
-     * Symbols: mN
+     * Symbols: "mN"
      * 
      * SI metric unit. Equal to 1000 [micronewton] or 0.001 [newton]. Adopted 1795.
      */
@@ -272,7 +272,7 @@ export default class UnitForce extends Unit {
     /**
      * **micronewton**
      * 
-     * Symbols: μN
+     * Symbols: "μN"
      * 
      * SI metric unit. Equal to 1000 [nanonewton] or 1ᴇ-6 [newton]. Adopted 1873.
      */
@@ -288,7 +288,7 @@ export default class UnitForce extends Unit {
     /**
      * **nanonewton**
      * 
-     * Symbols: nN
+     * Symbols: "nN"
      * 
      * SI metric unit. Equal to 1000 [piconewton] or 1ᴇ-9 [newton]. Adopted 1960.
      */
@@ -304,7 +304,7 @@ export default class UnitForce extends Unit {
     /**
      * **piconewton**
      * 
-     * Symbols: pN
+     * Symbols: "pN"
      * 
      * SI metric unit. Equal to 1000 [femtonewton] or 1ᴇ-12 [newton]. Adopted 1960.
      */
@@ -320,7 +320,7 @@ export default class UnitForce extends Unit {
     /**
      * **femtonewton**
      * 
-     * Symbols: fN
+     * Symbols: "fN"
      * 
      * SI metric unit. Equal to 1000 [attonewton] or 1ᴇ-15 [newton]. Adopted 1964.
      */
@@ -336,7 +336,7 @@ export default class UnitForce extends Unit {
     /**
      * **attonewton**
      * 
-     * Symbols: aN
+     * Symbols: "aN"
      * 
      * SI metric unit. Equal to 1000 [zeptonewton] or 1ᴇ-18 [newton]. Adopted 1964.
      */
@@ -352,7 +352,7 @@ export default class UnitForce extends Unit {
     /**
      * **zeptonewton**
      * 
-     * Symbols: zN
+     * Symbols: "zN"
      * 
      * SI metric unit. Equal to 1000 [yoctonewton] or 1ᴇ-21 [newton]. Adopted 1991.
      */
@@ -368,7 +368,7 @@ export default class UnitForce extends Unit {
     /**
      * **yoctonewton**
      * 
-     * Symbols: yN
+     * Symbols: "yN"
      * 
      * SI metric unit. Equal to 1000 [rontonewton] or 1ᴇ-24 [newton]. Adopted 1991.
      */
@@ -384,7 +384,7 @@ export default class UnitForce extends Unit {
     /**
      * **rontonewton**
      * 
-     * Symbols: rN
+     * Symbols: "rN"
      * 
      * SI metric unit. Equal to 1000 [quectonewton] or 1ᴇ-27 [newton]. Adopted 2022.
      */
@@ -400,7 +400,7 @@ export default class UnitForce extends Unit {
     /**
      * **quectonewton**
      * 
-     * Symbols: qN
+     * Symbols: "qN"
      * 
      * SI metric unit. Equal to 1ᴇ-30 [newton]. Adopted 2022.
      */
@@ -420,7 +420,7 @@ export default class UnitForce extends Unit {
     /**
      * **pound-force**
      * 
-     * Symbols: lbf,object Object
+     * Symbols: "lbf",{"one":"lb","other":"lbs"}
      * 
      * English unit. Equal to 4.4482216152605 [newton].
      */
@@ -436,7 +436,7 @@ export default class UnitForce extends Unit {
     /**
      * **kip**
      * 
-     * Symbols: object Object,kipf
+     * Symbols: {"one":"kip","other":"kips"},"kipf"
      * 
      * English unit. Equal to 1000 [poundForce] or 4448.2216152605 [newton].
      */
